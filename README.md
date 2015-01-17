@@ -11,11 +11,8 @@
  * Russian - native
  * Ukrainian - bilingual proficiency
  * English - fluent
-
-## Summary
-
-*  10 years programming experience
-*  
+* Education: Bachelor and Specialist degrees with honours in applied mathematics (Sumy State University)
+* 10 years programming experience
 
 ## Technical Skills & Interests
 
@@ -25,6 +22,7 @@
 * JavaScript (Vanilla, jQuery, Gulp, Grunt)
 * HTML5, CSS3
 * Version control (Git, Mercurial)
+* OS: Windows, Ubuntu
 
 ### Other
 
@@ -33,7 +31,9 @@
 * Web accessibility
 * Usability
 * SEO
+* Open Source
 * Adobe Photoshop
+* Libre Office
 
 ### In the past
 
