@@ -59,6 +59,8 @@ PHP (Vanilla, Contao CMS, Composer, PHPUnit), MySQL, JavaScript (Vanilla, jQuery
 #### Lead Web Developer at Tamara Style Online Store
 April 2011 – Present (3 years 10 months)
 
+http://tamarastyle.ua
+
 Full-stack web developer. Create store architecture from the beginning. Remotely work.
 
 PHP (Contao CMS, Composer), MySQL, JavaScript (jQuery, Bootstrap, Gulp, Grunt), HTML5, CSS3
@@ -66,6 +68,8 @@ PHP (Contao CMS, Composer), MySQL, JavaScript (jQuery, Bootstrap, Gulp, Grunt), 
 
 #### Lead Web Developer at MarakasDesign
 September 2011 – February 2014 (2 years 6 months)
+
+http://marakasdesign.com.ua
 
 Full-stack web developer. Website development on Contao CMS system. Remotely work.
 20+ projects.
@@ -101,7 +105,9 @@ PHP (CodeIgniter), MySQL, JavaScript (jQuery), XHTML, CSS
 #### Lead developer at SEMi
 February 2007 – September 2008 (1 year 8 months) Sumy, Ukraine
 
-Software development (http://d.sumy.ua/page/aas-2007) for C-600 (http://semi-stp.sumy.ua/s-600.html) and C-115M (http://semi-stp.sumy.ua/s-115m1.html).
+http://semi.sumy.ua/
+
+Software development for C-600 (http://semi.sumy.ua/s-600.html) and C-115M (http://semi.sumy.ua/s-115m1.html).
 
 Delphi, Advantage Database Server, ASM-51
 
