@@ -41,3 +41,70 @@
 * Desktop: Delphi + Advantage Database Server
 * ASM-51
 * Documentation: LaTeX
+
+
+## Experience
+
+#### Lead Web Developer at Fotokniga
+August 2010 – Present (4 years 6 months)
+
+Full-stack web developer. Create system architecture from the beginning. Remotely work.
+
+PHP (Vanilla, Contao CMS, Composer, PHPUnit), MySQL, JavaScript (Vanilla, jQuery, Bootstrap, Gulp, Grunt), HTML5, CSS3
+
+
+#### Lead Web Developer at Tamara Style Online Store
+April 2011 – Present (3 years 10 months)
+
+Full-stack web developer. Create store architecture from the beginning. Remotely work.
+
+PHP (Contao CMS, Composer), MySQL, JavaScript (jQuery, Bootstrap, Gulp, Grunt), HTML5, CSS3
+
+
+#### Lead Web Developer at MarakasDesign
+September 2011 – February 2014 (2 years 6 months)
+
+Full-stack web developer. Website development on Contao CMS system. Remotely work.
+20+ projects.
+
+PHP (Contao CMS), MySQL, JavaScript (jQuery), XHTML, CSS
+
+
+#### Co-owner and Lead developer at BYTE
+March 2010 – September 2011 (1 year 7 months) Sumy, Ukraine
+
+Negotiations with potential customers. Signing contracts with clients. Cost assessment and project budgeting. Creation technical documentation. Planning tasks for programmers, designers. Controlling tasks implementation in time. Planning website architecture, construction database architectures etc.
+Work in office.
+
+PHP (Contao CMS), MySQL, JavaScript (jQuery), XHTML, CSS
+
+
+#### Web Developer at Crisp Studio
+June 2009 – February 2010 (9 months) Sumy, Ukraine
+
+Website development. Construction database architectures. Writing technical documentation. Work in office.
+
+PHP, MySQL, JavaScript (jQuery), XHTML, CSS
+
+
+#### Web Developer as Freelancer
+December 2006 – February 2009 (2 years 3 months)
+
+Website development as free-lancer. Remotely work.
+
+PHP (CodeIgniter), MySQL, JavaScript (jQuery), XHTML, CSS
+
+
+#### Lead developer at SEMi
+February 2007 – September 2008 (1 year 8 months) Sumy, Ukraine
+
+Software development (http://d.sumy.ua/page/aas-2007) for C-600 (http://semi-stp.sumy.ua/s-600.html) and C-115M (http://semi-stp.sumy.ua/s-115m1.html).
+
+Delphi, Advantage Database Server, ASM-51
+
+
+#### Developer at SELMI
+August 2005 – December 2006 (1 year 5 months) Sumy, Ukraine
+
+Soft Development for GRASFO-1
+ASM-51 + Delphi
