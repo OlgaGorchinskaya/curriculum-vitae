@@ -14,6 +14,8 @@
 * Education: Bachelor and Specialist degrees with honours in applied mathematics (Sumy State University)
 * 10 years programming experience
 
+___
+
 ## Technical Skills & Interests
 
 ### Web Development
@@ -42,6 +44,7 @@
 * ASM-51
 * Documentation: LaTeX
 
+___
 
 ## Experience
 
