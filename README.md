@@ -13,6 +13,8 @@
  * English - fluent
 * Education: Bachelor and Specialist degrees with honours in applied mathematics (Sumy State University)
 * 10 years programming experience
+* LinkedIn: https://www.linkedin.com/in/dyaga
+* GitHub: https://github.com/DyaGa
 
 ___
 
