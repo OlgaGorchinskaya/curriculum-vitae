@@ -4,7 +4,7 @@
 
 * Fullname: Sergey Dyagovchenko
 * Email: sergey.dyagovchenko@gmail.com
-* Date of Birth: December 17, 1982
+* Date of Birth: December, 1982
 * Place of Birth: Sumy, Ukraine
 * Nationality: Ukrainian
 * Languages: 
@@ -12,7 +12,7 @@
  * Ukrainian - bilingual proficiency
  * English - pre-intermediate level
 * Education: Bachelor and Specialist degrees with honours in applied mathematics (Sumy State University)
-* 10 years programming experience
+* 11 years programming experience
 * LinkedIn: https://www.linkedin.com/in/dyaga
 * GitHub: https://github.com/DyaGa
 
@@ -22,9 +22,9 @@ ___
 
 ### Web Development
  
-* PHP (Vanilla, Contao CMS, Composer, PHPUnit)
+* PHP (Vanilla, Contao CMS, Symfony, Composer, PHPUnit)
 * JavaScript (Vanilla, jQuery, Gulp, Grunt)
-* HTML5, CSS3
+* HTML5, CSS3 (Vanilla, Twitter Bootstrap)
 * Version control (Git, Mercurial)
 * OS: Windows, Ubuntu
 
@@ -51,7 +51,7 @@ ___
 ## Experience
 
 #### Lead Web Developer at Fotokniga
-August 2010 – Present (4 years 6 months)
+August 2010 – Present
 
 Full-stack web developer. Create system architecture from the beginning. Remotely work.
 
@@ -59,7 +59,7 @@ PHP (Vanilla, Contao CMS, Composer, PHPUnit), MySQL, JavaScript (Vanilla, jQuery
 
 
 #### Lead Web Developer at Tamara Style Online Store
-April 2011 – Present (3 years 10 months)
+April 2011 – Present
 
 http://tamarastyle.ua
 
