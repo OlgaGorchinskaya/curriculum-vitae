@@ -53,7 +53,7 @@ ___
 #### Lead Web Developer at Fotokniga
 August 2010 – Present
 
-Full-stack web developer. Create system architecture from the beginning. Remotely work.
+Full-stack web developer. Create system architecture from the beginning. Use Contao CMS. Remotely work. Rest Api. Work with delivery companies API like Shop-Logistics, Deloviye Linii. Use payment systems: PayU, WebPay.
 
 PHP (Vanilla, Contao CMS, Composer, PHPUnit), MySQL, JavaScript (Vanilla, jQuery, Bootstrap, Gulp, Grunt), HTML5, CSS3
 
