@@ -13,6 +13,7 @@
  * English - intermediate level
 * Education: Bachelor and Specialist degrees with honours in applied mathematics (Sumy State University)
 * 11 years programming experience
+* Skype: sergey.dyagovchenko
 * LinkedIn: https://www.linkedin.com/in/dyaga
 * GitHub: https://github.com/DyaGa
 
