@@ -10,7 +10,7 @@
 * Languages: 
  * Russian - native
  * Ukrainian - bilingual proficiency
- * English - pre-intermediate level
+ * English - intermediate level
 * Education: Bachelor and Specialist degrees with honours in applied mathematics (Sumy State University)
 * 11 years programming experience
 * LinkedIn: https://www.linkedin.com/in/dyaga
@@ -52,6 +52,8 @@ ___
 
 #### Lead Web Developer at Fotokniga
 August 2010 – Present
+
+http://fabrika-fotoknigi.ru
 
 Full-stack web developer. Create system architecture from the beginning. Use Contao CMS. Remotely work. Rest Api. Work with delivery companies API like Shop-Logistics, Deloviye Linii. Use payment systems: PayU, WebPay.
 
