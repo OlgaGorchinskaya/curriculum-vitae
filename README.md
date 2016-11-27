@@ -92,7 +92,7 @@ September 2011 – February 2014 (2 years 6 months)
 http://marakasdesign.com.ua
 
 Full-stack web developer. Website development on Contao CMS system. Remote work.
-20+ projects.
+20+ projects. Web sites for restaruants, small companies.
 
 PHP (Contao CMS), MySQL, JavaScript (jQuery), XHTML, CSS, HTML5, CSS3.
 
