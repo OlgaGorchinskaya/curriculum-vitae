@@ -27,10 +27,10 @@ ___
 
 ### Web Development
  
-* PHP: Vanilla PHP, Contao CMS, Symfony, Composer, Deployer, PHPUnit
+* PHP: Contao CMS, Symfony, Composer, Deployer, PHPUnit
 * Database: MySQL
-* JavaScript: Vanilla JS, jQuery, Gulp
-* HTML5 & CSS3: Vanilla, Twitter Bootstrap
+* JavaScript: jQuery, Gulp
+* HTML5 & CSS3: Twitter Bootstrap
 * Version control: Git, Mercurial
 * OS: Windows, Ubuntu
 * API: Zoho CRM API, Delovije Linii API, ShopLogistics API, PayU API, WebPay API
@@ -73,7 +73,7 @@ Full-stack web developer. Remote work.
 
 Create system architecture from the beginning. Use Contao CMS. Rest Api. Work with delivery companies API like Shop-Logistics, Deloviye Linii. Use payment systems: PayU, WebPay. Export data to Zoho CRM.
 
-PHP (Vanilla, Contao CMS, Composer, Deployer, PHPUnit), MySQL, JavaScript (Vanilla, jQuery, Bootstrap, Gulp), HTML5, CSS3, Windows, Ubuntu, CentOS.
+PHP (Contao CMS, Composer, Deployer, PHPUnit), MySQL, JavaScript (jQuery, Bootstrap, Gulp), HTML5, CSS3, Windows, Ubuntu, CentOS.
 
 #### Lead Web Developer at Tamara Style Online Store
 April 2011 – Present
@@ -117,7 +117,7 @@ December 2006 – February 2009 (2 years 3 months)
 
 Website development as free-lancer. Remote work.
 
-PHP (CodeIgniter, Joomla CMS, PHPShop), MySQL, ColdFusion (Mach-II), JavaScript (Vanilla JS, jQuery), XHTML, CSS.
+PHP (CodeIgniter, Joomla CMS, PHPShop), MySQL, ColdFusion (Mach-II), JavaScript (jQuery), XHTML, CSS.
 
 #### Lead developer at SEMi
 February 2007 – September 2008 (1 year 8 months) Sumy, Ukraine
