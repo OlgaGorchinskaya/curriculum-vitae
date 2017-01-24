@@ -19,7 +19,7 @@
 
 ## Summary
 
-I like both frontend and backend. Create software architecture. I like to code. Mostly I work with PHP, but can also work with JavaScript and HTML5+CSS3.
+I am a fullstack PHP web developer. Mostly I work with PHP, but also use JavaScript and HTML5+CSS3. I like both frontend and backend. Create software architecture. I like to code and make things better.
 
 ___
 
