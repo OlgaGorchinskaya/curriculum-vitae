@@ -4,7 +4,7 @@
 
 * Fullname: Sergey Dyagovchenko
 * Email: sergey.dyagovchenko@gmail.com
-* Date of Birth: December, 1982 (33 years old)
+* Date of Birth: December, 1982 (34 years old)
 * Nationality: Ukrainian
 * Languages: 
  * Russian - native
@@ -19,7 +19,7 @@
 
 ## Summary
 
-I am a fullstack web developer (PHP, JavaScript, HTML5, CSS3). I like both frontend and backend. Create software architecture. I like to code.
+I like both frontend and backend. Create software architecture. I like to code. Mostly I work with PHP, but can also work with JavaScript and HTML5+CSS3.
 
 ___
 
@@ -31,6 +31,7 @@ ___
 * Database: MySQL
 * JavaScript: jQuery, Gulp
 * HTML5 & CSS3: Twitter Bootstrap
+* Bash
 * Version control: Git, Mercurial
 * OS: Windows, Ubuntu
 * API: Zoho CRM API, Delovije Linii API, ShopLogistics API, PayU API, WebPay API
