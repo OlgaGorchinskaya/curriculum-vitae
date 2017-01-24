@@ -1,4 +1,8 @@
-# Curriculum Vitae
+# Sergey's Daygovchenko Curriculum Vitae
+
+**Fullstack PHP Web Developer** / 10+ years programming experience
+
+I am a fullstack PHP web developer. Mostly I work with PHP, but also use JavaScript and HTML5+CSS3. I like both frontend and backend. Create software architecture. I like to code and make things better.
 
 ## Personal
 
@@ -6,6 +10,7 @@
 * Email: sergey.dyagovchenko@gmail.com
 * Date of Birth: December, 1982 (34 years old)
 * Nationality: Ukrainian
+* Current location: Kiev, Ukraine
 * Languages: 
  * Russian - native
  * Ukrainian - bilingual proficiency
@@ -16,10 +21,6 @@
 * LinkedIn: https://www.linkedin.com/in/dyaga
 * GitHub: https://github.com/DyaGa
 * BitBucket: https://bitbucket.org/DyaGa/
-
-## Summary
-
-I am a fullstack PHP web developer. Mostly I work with PHP, but also use JavaScript and HTML5+CSS3. I like both frontend and backend. Create software architecture. I like to code and make things better.
 
 ___
 
