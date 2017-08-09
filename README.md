@@ -1,23 +1,23 @@
 # Curriculum Vitae
 
-**Sergey Daygovchenko** / **PHP Web Developer** / 11+ years programming experience
+Sergey Daygovchenko / **PHP Web Developer** / 11+ years programming experience
 
-I am a **PHP web developer**. Most of the time I work with back-end stack **PHP** and **MySQL**, but also I know and use a front-end stack **JavaScript**, **HTML5**, **CSS3**. I like both front-end and back-end. I like to code and make things better.
+I am a **PHP web developer**. Most of the time I work with back-end stack **PHP** and **MySQL**, but also I know and use in daily work a front-end stack **JavaScript**, **HTML5**, **CSS3**. I like both front-end and back-end and I like to code and make things better.
 
 ## Personal information
 
 * Fullname: Sergey Dyagovchenko
 * Email: sergey.dyagovchenko@gmail.com
 * Date of Birth: December, 1982 (34+ yrs old)
-* Nationality: Ukrainian
 * Current location: Kiev, Ukraine
-* Languages: 
- * Russian - native
- * Ukrainian - bilingual proficiency
- * English - intermediate level
+* Nationality: Ukrainian
+* Languages: Russian - native, Ukrainian - bilingual proficiency, English - intermediate level
 * Education: Bachelor and Specialist degrees with honours in applied mathematics (Sumy State University)
 * Programming experience: 11+ yrs
-* Skype: sergey.dyagovchenko
+
+## Contact information
+* Skype ID: sergey.dyagovchenko
+* Email: sergey.dyagovchenko@gmail.com
 * LinkedIn: https://www.linkedin.com/in/dyaga
 * GitHub: https://github.com/DyaGa
 * BitBucket: https://bitbucket.org/DyaGa/
@@ -40,6 +40,10 @@ ___
 ### Other interests and skills
 
 * SOLID
+* TDD
+* Design Patterns Implementation
+* Objected Oriented Concepts
+* Database design
 * REST API
 * Web standarts
 * Web perfomance
@@ -69,14 +73,16 @@ August 2010 – Present (7+ yrs) / Remote work
 
 https://fabrika-fotoknigi.ru, http://pic-pac.ru
 
- * Create system architecture from the beginning;
- * Create and maintain rest api service;
- * Fron-end and back-end development;
- * Integrate delivery companies: Shop-Logistics, Deloviye Linii;
- * Integrate payment systems: PayU, PayKeeper, WebPay;
- * Export data to Zoho CRM;
- * Maintain the system;
- * Implementation of the new features by request.
+ * Architected and developed the core company website system based on Contao CMS
+ * Design, Develop and Maintain the system
+ * Build and integrate our JSON api with other systems including our website and other 3rd party applications
+ * Fron-end and back-end development
+ * Develop new system modules
+ * Write PHP unit tests and deploying the code
+ * Integrate delivery companies: Shop-Logistics, Deloviye Linii
+ * Integrate payment systems: PayU, PayKeeper, WebPay
+ * Integrate Zoho CRM system
+ * Implementation of the new features by request
 
 WebDev stack: PHP (Contao CMS, Composer, Deployer, PHPUnit), MySQL, JavaScript (jQuery, Bootstrap, Gulp), HTML5, CSS3, Windows, Ubuntu, CentOS.
 
@@ -85,9 +91,9 @@ April 2011 – Present (6+ yrs) / Remote work
 
 http://tamarastyle.ua
 
- * Create store architecture from the beginning;
- * Maintain the system;
- * Implementation of the new features by request.
+ * Create store architecture from the beginning
+ * Maintain the system
+ * Implementation of the new features by request
 
 WebDev stack: PHP (Contao CMS, Deployer, Composer), MySQL, JavaScript (jQuery, Bootstrap, Gulp, Grunt), HTML5, CSS3.
 
@@ -96,43 +102,43 @@ September 2011 – February 2014 (2 years 6 months) / Remote work
 
 http://marakasdesign.com
 
- * Fron-end and back-end website development;
- * 20+ projects: web sites for companies, restaruants, catalogs, eCommerce catalogs;
- * Maintain websites;
- * Implementation of the new features by request.
+ * Fron-end and back-end website development
+ * 20+ projects: web sites for companies, restaruants, catalogs, eCommerce catalogs
+ * Maintain websites
+ * Implementation of the new features by request
 
 WebDev stack: PHP (Contao CMS), MySQL, JavaScript (jQuery), XHTML, CSS, HTML5, CSS3.
 
 #### Co-owner and Lead Web Developer at BYTE
 March 2010 – September 2011 (1 year 7 months) / Sumy, Ukraine / Work at office
 
- * Fron-end and back-end website development;
- * 20+ projects: web sites for companies, restaruants, catalogs, eCommerce catalogs;
- * Negotiations with potential customers;
- * Signing contracts with clients; 
- * Cost assessment and project budgeting;
- * Creation technical documentation; 
- * Planning tasks for programmers, designers;
- * Controlling tasks implementation in time;
- * Planning website architecture, construction database architectures etc.;
- * Maintain websites;
+ * Fron-end and back-end website development
+ * 20+ projects: web sites for companies, restaruants, catalogs, eCommerce catalogs
+ * Negotiations with potential customers
+ * Signing contracts with clients
+ * Cost assessment and project budgeting
+ * Create technical documentation
+ * Planning tasks for programmers, designers
+ * Controlling tasks implementation in time
+ * Planning website architecture, construction database architectures etc.
+ * Maintain websites
 
 WebDev stack: PHP (Contao CMS), MySQL, JavaScript (jQuery), XHTML, CSS.
 
 #### Web Developer at Crisp Studio
 June 2009 – February 2010 (9 months) / Sumy, Ukraine / Work at office
 
- * Fron-end and back-end website development;
- * Construction of database architecture;
- * Writing technical documentation.
+ * Fron-end and back-end website development
+ * Construction of database architecture
+ * Writing technical documentation
 
 WebDev stack: PHP, MySQL, JavaScript (jQuery), XHTML, CSS.
 
 #### Web Developer as Freelancer
 December 2006 – February 2009 (2 years 3 months) / Remote work
 
- * Fron-end and back-end website development;
- * Cost assessment and project budgeting.
+ * Fron-end and back-end website development
+ * Cost assessment and project budgeting
 
 WebDev stack: PHP (CodeIgniter, Joomla CMS, Typo3, PHPShop), MySQL, ColdFusion (Mach-II), JavaScript (jQuery), XHTML, CSS.
 
@@ -141,15 +147,15 @@ February 2007 – September 2008 (1 year 8 months) / Sumy, Ukraine / Work at off
 
 http://semi.sumy.ua/
 
- * Software development for spectrophotometer C-600 (http://semi.sumy.ua/s-600.html) and C-115M (http://semi.sumy.ua/s-115m1.html);
- * Writing code for the microprocessor using ASM-51.
+ * Software development for spectrophotometer C-600 (http://semi.sumy.ua/s-600.html) and C-115M (http://semi.sumy.ua/s-115m1.html)
+ * Writing code for the microprocessor using ASM-51
 
 Dev stack: Delphi 7, Advantage Database Server, ASM-51.
 
 #### Developer at SELMI
 August 2005 – December 2006 (1 year 5 months) / Sumy, Ukraine / Work at office
 
- * Software development for spectrophotometer GRASFO-1;
- * Writing code for the microprocessor using ASM-51.
+ * Software development for spectrophotometer GRASFO-1
+ * Writing code for the microprocessor using ASM-51
 
 Dev stack: Delphi, Advantage Database Server, ASM-51.
