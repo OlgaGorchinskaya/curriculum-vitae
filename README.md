@@ -1,14 +1,14 @@
-# Sergey's Daygovchenko Curriculum Vitae
+# Curriculum Vitae
 
-**Full Stack PHP Web Developer** / 10+ years programming experience
+**Sergey Daygovchenko** / **PHP Web Developer** / 11+ years programming experience
 
-I am a full stack PHP web developer. Mostly I work with PHP, but also use JavaScript and HTML5+CSS3. I like both frontend and backend. I like to code and make things better.
+I am a **PHP web developer**. Most of the time I work with back-end stack **PHP** and **MySQL**, but also I know and use a front-end stack **JavaScript**, **HTML5**, **CSS3**. I like both front-end and back-end. I like to code and make things better.
 
-## Personal
+## Personal information
 
 * Fullname: Sergey Dyagovchenko
 * Email: sergey.dyagovchenko@gmail.com
-* Date of Birth: December, 1982 (34 years old)
+* Date of Birth: December, 1982 (34+ yrs old)
 * Nationality: Ukrainian
 * Current location: Kiev, Ukraine
 * Languages: 
@@ -16,7 +16,7 @@ I am a full stack PHP web developer. Mostly I work with PHP, but also use JavaSc
  * Ukrainian - bilingual proficiency
  * English - intermediate level
 * Education: Bachelor and Specialist degrees with honours in applied mathematics (Sumy State University)
-* 10+ years programming experience
+* Programming experience: 11+ yrs
 * Skype: sergey.dyagovchenko
 * LinkedIn: https://www.linkedin.com/in/dyaga
 * GitHub: https://github.com/DyaGa
@@ -28,18 +28,17 @@ ___
 
 ### Web Development
  
-* PHP: Contao CMS (6+ yrs), Composer (2 yrs), Deployer (2 yrs), PHPUnit, Symfony (lt 1 yr)
-* Database: MySQL (6+ yrs)
-* JavaScript: jQuery (6+ yrs), Gulp
-* HTML5 & CSS3: Twitter Bootstrap
-* Bash
+* PHP: Contao CMS (7+ yrs), Composer (2 yrs), Deployer (2 yrs), PHPUnit (2 yrs), Symfony (lt 1 yr)
+* Database: MySQL (7+ yrs)
+* JavaScript: jQuery (7+ yrs), Gulp (1 yr)
+* HTML5 & CSS3: Twitter Bootstrap (7+ yrs)
+* Bash (3 yrs), CMD (7+ yrs)
 * Version control: Git (3+ yrs), Mercurial (3+ yrs)
-* OS: Windows, Ubuntu
-* API: Zoho CRM API, Delovije Linii API, ShopLogistics API, PayU API, WebPay API
+* OS: Windows (11+ yrs), Ubuntu (3 yrs)
+* REST API: Zoho CRM, Delovije Linii, ShopLogistics, PayU, WebPay
 
-### Other
+### Other interests and skills
 
-* Agile
 * SOLID
 * REST API
 * Web standarts
@@ -51,88 +50,106 @@ ___
 * Adobe Photoshop
 * Google Docs
 
-### In the past
+### Additional programming skills (in the past)
 
-* Web:
- * PHP: CodeIgniter, Typo3, Joomla CMS, PHPShop
- * ColdFusion: Mach-II framework
-* Desktop: Delphi 7 (3 yrs)
-* Database: Advantage Database Server
+* PHP: CodeIgniter (3 yrs), Typo3 (lt 1 yr), Joomla CMS (lt 1 yr), PHPShop (lt 1 yr)
+* ColdFusion: Mach-II framework (1 yr)
+* Desktop: Delphi 7 (3+ yrs)
+* Database: Advantage Database Server (3+ yrs)
 * Assembler: ASM-51 (1 yr)
-* Documentation: LaTeX
-* Also: Pascal, C, C++
+* Documentation: LaTeX (3+ yrs)
+* Also: Pascal, C, C++ (3+ yrs)
 
 ___
 
 ## Experience
 
-#### Lead Web Developer at Fabrika-Fotoknigi (Remote)
-August 2010 – Present
+#### Lead Web Developer at Fabrika-Fotoknigi
+August 2010 – Present (7+ yrs) / Remote work
 
-http://fabrika-fotoknigi.ru
+https://fabrika-fotoknigi.ru, http://pic-pac.ru
 
-Full stack web developer. Remote work.
+ * Create system architecture from the beginning;
+ * Create and maintain rest api service;
+ * Fron-end and back-end development;
+ * Integrate delivery companies: Shop-Logistics, Deloviye Linii;
+ * Integrate payment systems: PayU, PayKeeper, WebPay;
+ * Export data to Zoho CRM;
+ * Maintain the system;
+ * Implementation of the new features by request.
 
-Create system architecture from the beginning. Use Contao CMS. Rest Api. Work with delivery companies API like Shop-Logistics, Deloviye Linii. Use payment systems: PayU, WebPay. Export data to Zoho CRM.
+WebDev stack: PHP (Contao CMS, Composer, Deployer, PHPUnit), MySQL, JavaScript (jQuery, Bootstrap, Gulp), HTML5, CSS3, Windows, Ubuntu, CentOS.
 
-PHP (Contao CMS, Composer, Deployer, PHPUnit), MySQL, JavaScript (jQuery, Bootstrap, Gulp), HTML5, CSS3, Windows, Ubuntu, CentOS.
-
-#### Lead Web Developer at Tamara Style Online Store (Remote)
-April 2011 – Present
+#### Lead Web Developer at Tamara Style Online Store
+April 2011 – Present (6+ yrs) / Remote work
 
 http://tamarastyle.ua
 
-Full-stack web developer. Remote work. 
+ * Create store architecture from the beginning;
+ * Maintain the system;
+ * Implementation of the new features by request.
 
-Create store architecture from the beginning.
+WebDev stack: PHP (Contao CMS, Deployer, Composer), MySQL, JavaScript (jQuery, Bootstrap, Gulp, Grunt), HTML5, CSS3.
 
-PHP (Contao CMS, Deployer, Composer), MySQL, JavaScript (jQuery, Bootstrap, Gulp, Grunt), HTML5, CSS3.
+#### Lead Web Developer at MarakasDesign
+September 2011 – February 2014 (2 years 6 months) / Remote work
 
-#### Lead Web Developer at MarakasDesign (Remote)
-September 2011 – February 2014 (2 years 6 months)
+http://marakasdesign.com
 
-http://marakasdesign.com.ua
+ * Fron-end and back-end website development;
+ * 20+ projects: web sites for companies, restaruants, catalogs, eCommerce catalogs;
+ * Maintain websites;
+ * Implementation of the new features by request.
 
-Full-stack web developer. Website development on Contao CMS system. Remote work.
-20+ projects. Web sites for restaruants, small companies.
+WebDev stack: PHP (Contao CMS), MySQL, JavaScript (jQuery), XHTML, CSS, HTML5, CSS3.
 
-PHP (Contao CMS), MySQL, JavaScript (jQuery), XHTML, CSS, HTML5, CSS3.
+#### Co-owner and Lead Web Developer at BYTE
+March 2010 – September 2011 (1 year 7 months) / Sumy, Ukraine / Work at office
 
-#### Co-owner and Lead developer at BYTE (Office)
-March 2010 – September 2011 (1 year 7 months) Sumy, Ukraine
+ * Fron-end and back-end website development;
+ * 20+ projects: web sites for companies, restaruants, catalogs, eCommerce catalogs;
+ * Negotiations with potential customers;
+ * Signing contracts with clients; 
+ * Cost assessment and project budgeting;
+ * Creation technical documentation; 
+ * Planning tasks for programmers, designers;
+ * Controlling tasks implementation in time;
+ * Planning website architecture, construction database architectures etc.;
+ * Maintain websites;
 
-Negotiations with potential customers. Signing contracts with clients. Cost assessment and project budgeting. Creation technical documentation. Planning tasks for programmers, designers. Controlling tasks implementation in time. Planning website architecture, construction database architectures etc.
+WebDev stack: PHP (Contao CMS), MySQL, JavaScript (jQuery), XHTML, CSS.
 
-Work in office.
+#### Web Developer at Crisp Studio
+June 2009 – February 2010 (9 months) / Sumy, Ukraine / Work at office
 
-PHP (Contao CMS), MySQL, JavaScript (jQuery), XHTML, CSS.
+ * Fron-end and back-end website development;
+ * Construction of database architecture;
+ * Writing technical documentation.
 
-#### Web Developer at Crisp Studio (Office)
-June 2009 – February 2010 (9 months) Sumy, Ukraine
+WebDev stack: PHP, MySQL, JavaScript (jQuery), XHTML, CSS.
 
-Website development. Construction database architectures. Writing technical documentation. Work in office.
+#### Web Developer as Freelancer
+December 2006 – February 2009 (2 years 3 months) / Remote work
 
-PHP, MySQL, JavaScript (jQuery), XHTML, CSS.
+ * Fron-end and back-end website development;
+ * Cost assessment and project budgeting.
 
-#### Web Developer as Freelancer (Remote)
-December 2006 – February 2009 (2 years 3 months)
+WebDev stack: PHP (CodeIgniter, Joomla CMS, Typo3, PHPShop), MySQL, ColdFusion (Mach-II), JavaScript (jQuery), XHTML, CSS.
 
-Website development as free-lancer. Remote work.
-
-PHP (CodeIgniter, Joomla CMS, PHPShop), MySQL, ColdFusion (Mach-II), JavaScript (jQuery), XHTML, CSS.
-
-#### Lead developer at SEMi (Remote + office)
-February 2007 – September 2008 (1 year 8 months) Sumy, Ukraine
+#### Lead developer at SEMi
+February 2007 – September 2008 (1 year 8 months) / Sumy, Ukraine / Work at office + remote work
 
 http://semi.sumy.ua/
 
-Software development for spectrophotometer C-600 (http://semi.sumy.ua/s-600.html) and C-115M (http://semi.sumy.ua/s-115m1.html).
+ * Software development for spectrophotometer C-600 (http://semi.sumy.ua/s-600.html) and C-115M (http://semi.sumy.ua/s-115m1.html);
+ * Writing code for the microprocessor using ASM-51.
 
-Delphi, Advantage Database Server, ASM-51.
+Dev stack: Delphi 7, Advantage Database Server, ASM-51.
 
-#### Developer at SELMI (Office)
-August 2005 – December 2006 (1 year 5 months) Sumy, Ukraine
+#### Developer at SELMI
+August 2005 – December 2006 (1 year 5 months) / Sumy, Ukraine / Work at office
 
-Software development for spectrophotometer GRASFO-1.
+ * Software development for spectrophotometer GRASFO-1;
+ * Writing code for the microprocessor using ASM-51.
 
-Delphi, Advantage Database Server, ASM-51.
+Dev stack: Delphi, Advantage Database Server, ASM-51.
