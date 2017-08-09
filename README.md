@@ -1,6 +1,6 @@
-# Curriculum Vitae
+# Curriculum Vitae / Sergey Daygovchenko
 
-Sergey Daygovchenko / **PHP Web Developer** / 11 years programming experience
+ **PHP Web Developer** / 11 years programming experience
 
 I am a **PHP web developer**. Most of the time I work with back-end stack **PHP** and **MySQL**, but also I know and use in daily work a front-end stack **JavaScript**, **HTML5**, **CSS3**. I like both front-end and back-end and I like to code and make things better.
 
