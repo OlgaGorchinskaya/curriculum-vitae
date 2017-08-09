@@ -7,7 +7,6 @@ I am a **PHP web developer**. Most of the time I work with back-end stack **PHP*
 ## Personal information
 
 * Fullname: Sergey Dyagovchenko
-* Email: sergey.dyagovchenko@gmail.com
 * Date of Birth: December, 1982 (34+ yrs old)
 * Current location: Kiev, Ukraine
 * Nationality: Ukrainian
@@ -16,8 +15,8 @@ I am a **PHP web developer**. Most of the time I work with back-end stack **PHP*
 * Programming experience: 11+ yrs
 
 ## Contact information
-* Skype ID: sergey.dyagovchenko
 * Email: sergey.dyagovchenko@gmail.com
+* Skype ID: sergey.dyagovchenko
 * LinkedIn: https://www.linkedin.com/in/dyaga
 * GitHub: https://github.com/DyaGa
 * BitBucket: https://bitbucket.org/DyaGa/
