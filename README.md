@@ -1,18 +1,18 @@
 # Curriculum Vitae
 
-Sergey Daygovchenko / **PHP Web Developer** / 11+ years programming experience
+Sergey Daygovchenko / **PHP Web Developer** / 11 years programming experience
 
 I am a **PHP web developer**. Most of the time I work with back-end stack **PHP** and **MySQL**, but also I know and use in daily work a front-end stack **JavaScript**, **HTML5**, **CSS3**. I like both front-end and back-end and I like to code and make things better.
 
 ## Personal information
 
 * Fullname: Sergey Dyagovchenko
-* Date of Birth: December, 1982 (34+ yrs old)
+* Date of Birth: December, 1982 (34 yrs old)
 * Current location: Kiev, Ukraine
 * Nationality: Ukrainian
 * Languages: Russian - native, Ukrainian - bilingual proficiency, English - intermediate level
 * Education: Bachelor and Specialist degrees with honours in applied mathematics (Sumy State University)
-* Programming experience: 11+ yrs
+* Programming experience: 11 yrs
 
 ## Contact information
 * Email: sergey.dyagovchenko@gmail.com
@@ -27,13 +27,13 @@ ___
 
 ### Web Development
  
-* PHP: Contao CMS (7+ yrs), Composer (2 yrs), Deployer (2 yrs), PHPUnit (2 yrs), Symfony (lt 1 yr)
-* Database: MySQL (7+ yrs)
-* JavaScript: jQuery (7+ yrs), Gulp (1 yr)
-* HTML5 & CSS3: Twitter Bootstrap (7+ yrs)
-* Bash (3 yrs), CMD (7+ yrs)
-* Version control: Git (3+ yrs), Mercurial (3+ yrs)
-* OS: Windows (11+ yrs), Ubuntu (3 yrs)
+* PHP: Contao CMS (7 yrs), Composer (2 yrs), Deployer (2 yrs), PHPUnit (2 yrs), Symfony (lt 1 yr)
+* Database: MySQL (7 yrs)
+* JavaScript: jQuery (7 yrs), Gulp (1 yr)
+* HTML5 & CSS3: Twitter Bootstrap (7 yrs)
+* Bash (3 yrs), CMD (7 yrs)
+* Version control: Git (3 yrs), Mercurial (3 yrs)
+* OS: Windows (11 yrs), Ubuntu (3 yrs)
 * REST API: Zoho CRM, Delovije Linii, ShopLogistics, PayU, WebPay
 
 ### Other interests and skills
@@ -60,15 +60,15 @@ ___
 * Desktop: Delphi 7 (3+ yrs)
 * Database: Advantage Database Server (3+ yrs)
 * Assembler: ASM-51 (1 yr)
-* Documentation: LaTeX (3+ yrs)
-* Also: Pascal, C, C++ (3+ yrs)
+* Documentation: LaTeX (3 yrs)
+* Also: Pascal, C, C++ (3 yrs)
 
 ___
 
 ## Experience
 
 #### Lead Web Developer at Fabrika-Fotoknigi
-August 2010 – Present (7+ yrs) / Remote work
+August 2010 – Present (7 yrs) / Remote work
 
 https://fabrika-fotoknigi.ru, http://pic-pac.ru
 
@@ -86,7 +86,7 @@ https://fabrika-fotoknigi.ru, http://pic-pac.ru
 WebDev stack: PHP (Contao CMS, Composer, Deployer, PHPUnit), MySQL, JavaScript (jQuery, Bootstrap, Gulp), HTML5, CSS3, Windows, Ubuntu, CentOS.
 
 #### Lead Web Developer at Tamara Style Online Store
-April 2011 – Present (6+ yrs) / Remote work
+April 2011 – Present (6 yrs) / Remote work
 
 http://tamarastyle.ua
 
